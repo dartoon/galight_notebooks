@@ -1,2 +1,2 @@
-# decomprofile_notebooks
-A collection of notebooks demonstrating how to decomprofile were used.
+# galight_notebooks
+A collection of notebooks demonstrating how galight is used.
